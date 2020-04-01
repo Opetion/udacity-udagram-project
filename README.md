@@ -1,4 +1,10 @@
 # Udagram Image Filtering Microservice
+
+Exercise from "Cloud Developer Nanodegree Program" - "Full Stack Apps on AWS" in Udacity.
+[The original repo](https://github.com/udacity/cloud-developer/tree/master/course-02/project/image-filter-starter-code), I opted not to do a fork because I would end up forkign the whole course instead of just this project.
+
+
+## Description
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
 The project is split into three parts:
